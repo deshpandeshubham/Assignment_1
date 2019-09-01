@@ -17,3 +17,5 @@ San Diego, CA 92115
 Tel. (800) 555-5555 
 
 * [Vecta Corp](https://acw-group.com.hk/acw_distribution/events/VectaCorp/aboutus.htm)
+
+>The page is built with the help of _HTML_ in _Visual Studio Code_
